@@ -1,0 +1,132 @@
+[
+    {
+        "Category":"Criminal Cases",
+        "Type of Case":"Theft & Burglary",
+        "Questions to be Asked":"When and where did it happen? What was stolen? Were there any witnesses? Any CCTV footage available? How did the suspect enter\/exit?"
+    },
+    {
+        "Category":"Criminal Cases",
+        "Type of Case":"Robbery",
+        "Questions to be Asked":"What weapons were used? Were you injured? Can you describe the suspect? Were any personal items taken?"
+    },
+    {
+        "Category":"Criminal Cases",
+        "Type of Case":"Assault & Battery",
+        "Questions to be Asked":"What led to the incident? What injuries were sustained? Do you know the attacker? Were there any witnesses?"
+    },
+    {
+        "Category":"Criminal Cases",
+        "Type of Case":"Murder & Homicide",
+        "Questions to be Asked":"When and where did it occur? What was the cause of death? Any prior threats or disputes? Who found the victim? Any CCTV or forensic evidence?"
+    },
+    {
+        "Category":"Criminal Cases",
+        "Type of Case":"Kidnapping & Abduction",
+        "Questions to be Asked":"When and where was the person last seen? Any suspects? Any ransom demands? What was the victim wearing? Any known conflicts or threats?"
+    },
+    {
+        "Category":"Criminal Cases",
+        "Type of Case":"Sexual Offenses",
+        "Questions to be Asked":"When and where did it happen? Do you know the suspect? Any medical evidence? Were there any witnesses or CCTV footage?"
+    },
+    {
+        "Category":"Criminal Cases",
+        "Type of Case":"Cyber Crimes",
+        "Questions to be Asked":"What type of cybercrime occurred? Any suspicious emails\/messages? Were financial transactions affected? Do you have digital evidence?"
+    },
+    {
+        "Category":"Criminal Cases",
+        "Type of Case":"Drug-Related Offenses",
+        "Questions to be Asked":"What type of drugs were involved? Where were they found? Do you have any information about suppliers?"
+    },
+    {
+        "Category":"Criminal Cases",
+        "Type of Case":"Domestic Violence",
+        "Questions to be Asked":"What kind of abuse occurred? Are there any past incidents? Are there medical reports or evidence? Is the victim safe now?"
+    },
+    {
+        "Category":"Traffic Violations",
+        "Type of Case":"Drunk Driving",
+        "Questions to be Asked":"Where was the driver stopped? Did they take a breathalyzer test? Any damages or injuries caused?"
+    },
+    {
+        "Category":"Traffic Violations",
+        "Type of Case":"Rash & Negligent Driving",
+        "Questions to be Asked":"What was the speed at the time? Were there any traffic violations? Were there any casualties?"
+    },
+    {
+        "Category":"Traffic Violations",
+        "Type of Case":"Hit and Run",
+        "Questions to be Asked":"What was the time and location? Can you describe the vehicle? Any CCTV or eyewitnesses?"
+    },
+    {
+        "Category":"Traffic Violations",
+        "Type of Case":"Violation of Traffic Signals",
+        "Questions to be Asked":"Was the vehicle caught on camera? Did the driver ignore signals intentionally? Were there any accidents caused?"
+    },
+    {
+        "Category":"Economic Offenses",
+        "Type of Case":"Fraud & Cheating",
+        "Questions to be Asked":"What amount of money was involved? Do you have any contracts or documents? Were there any false promises made?"
+    },
+    {
+        "Category":"Economic Offenses",
+        "Type of Case":"Corruption & Bribery",
+        "Questions to be Asked":"Who demanded or offered the bribe? Were there any witnesses? Do you have any recordings or documents?"
+    },
+    {
+        "Category":"Economic Offenses",
+        "Type of Case":"Money Laundering",
+        "Questions to be Asked":"What funds were transferred? What suspicious transactions occurred? Do you have bank statements?"
+    },
+    {
+        "Category":"Economic Offenses",
+        "Type of Case":"Counterfeiting",
+        "Questions to be Asked":"What kind of counterfeit goods\/money was involved? Where was it found? Were there any previous cases in the area?"
+    },
+    {
+        "Category":"Civil Disputes",
+        "Type of Case":"Land & Property Disputes",
+        "Questions to be Asked":"Who owns the property? Are there legal documents? What is the nature of the dispute? Any previous complaints filed?"
+    },
+    {
+        "Category":"Civil Disputes",
+        "Type of Case":"Family Disputes",
+        "Questions to be Asked":"What is the nature of the conflict? Are there any legal proceedings ongoing? Is there any history of violence?"
+    },
+    {
+        "Category":"Civil Disputes",
+        "Type of Case":"Contract Disputes",
+        "Questions to be Asked":"What contract was breached? Do you have a written agreement? Were there any payments made?"
+    },
+    {
+        "Category":"Public Order Cases",
+        "Type of Case":"Rioting & Unlawful Assembly",
+        "Questions to be Asked":"How many people were involved? Were there any damages or injuries? What caused the unrest?"
+    },
+    {
+        "Category":"Public Order Cases",
+        "Type of Case":"Harassment & Stalking",
+        "Questions to be Asked":"Who is the suspect? How long has this been happening? Do you have any messages or recordings?"
+    },
+    {
+        "Category":"Public Order Cases",
+        "Type of Case":"Trespassing",
+        "Questions to be Asked":"Did the suspect force entry? Was any property damaged? Do you have any proof of ownership?"
+    },
+    {
+        "Category":"Missing Persons",
+        "Type of Case":"Missing Children\/Adults",
+        "Questions to be Asked":"When was the person last seen? Any known conflicts or threats? Do they have a history of running away? Any CCTV footage available?"
+    },
+    {
+        "Category":"Emergency Response",
+        "Type of Case":"Natural Disasters",
+        "Questions to be Asked":"What areas are affected? Are there any casualties? What kind of relief measures are needed?"
+    },
+    {
+        "Category":"Emergency Response",
+        "Type of Case":"Terrorism & National Security",
+        "Questions to be Asked":"Were there any suspicious activities before the event? Any known threats or extremist links? What kind of explosives\/weapons were used?"
+    }
+]
