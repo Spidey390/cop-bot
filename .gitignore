@@ -1,0 +1,37 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+/dist
+/build
+
+# VS Code directory
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Optional: JetBrains IDE files (e.g., IntelliJ, WebStorm)
+.idea/
+
+# Optional: Yarn lock file (if using npm instead)
+yarn.lock
+
+# Optional: TypeScript files (if using TypeScript)
+*.tsbuildinfo
