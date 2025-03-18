@@ -1,11 +1,10 @@
-const backendUrl = "https://cop-bot.onrender.com"; // Use deployed backend URL
-
 document.addEventListener("DOMContentLoaded", () => {
     loadComplaints();
 });
 
+// Load complaints from the backend
 function loadComplaints() {
-    fetch(`${backendUrl}/get-complaints`)
+    fetch("https://cop-bot.onrender.com/get-complaints")
         .then(response => response.json())
         .then(data => {
             let tableBody = document.querySelector("#complaintTable tbody");
@@ -29,10 +28,11 @@ function loadComplaints() {
         .catch(error => console.error("Error loading complaints:", error));
 }
 
+// Delete a specific complaint
 function deleteComplaint(index) {
     if (!confirm("Are you sure you want to delete this complaint?")) return;
 
-    fetch(`${backendUrl}/delete-complaint/${index}`, { method: "DELETE" })
+    fetch(`https://cop-bot.onrender.com/delete-complaint/${index}`, { method: "DELETE" })
         .then(response => response.json())
         .then(data => {
             alert(data.message);
